@@ -1,0 +1,713 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ArticlProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ArticlProject.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\010e4216-6565-49b8-a353-645be270b78c-IMG_20230730_175316.jpg",
+      "PackagePath": "staticwebassets\\Images\\010e4216-6565-49b8-a353-645be270b78c-IMG_20230730_175316.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\035bed84-1a19-4670-8037-dee2e4539367-316959004_1542281696215821_7186432385422028040_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\035bed84-1a19-4670-8037-dee2e4539367-316959004_1542281696215821_7186432385422028040_n.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\0ce24478-113c-40c1-af0e-11c08b780a21-IMG_1694455245453.jpg",
+      "PackagePath": "staticwebassets\\Images\\0ce24478-113c-40c1-af0e-11c08b780a21-IMG_1694455245453.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\0f4cb0d3-fdd2-4a88-a2fb-3f9a4ab10d83-Screenshot 2024-03-27 045430.png",
+      "PackagePath": "staticwebassets\\Images\\0f4cb0d3-fdd2-4a88-a2fb-3f9a4ab10d83-Screenshot 2024-03-27 045430.png"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\14a70617-a2c7-429e-8998-499cc20f0bed-ac4d83de-1822-439e-a962-39c462582f7a-121778736_2667598850158518_4894711436928783016_o (2).jpg",
+      "PackagePath": "staticwebassets\\Images\\14a70617-a2c7-429e-8998-499cc20f0bed-ac4d83de-1822-439e-a962-39c462582f7a-121778736_2667598850158518_4894711436928783016_o (2).jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\14f3b8ee-501c-4125-bb0b-3de25d8e6d38-1694086918380.jpg",
+      "PackagePath": "staticwebassets\\Images\\14f3b8ee-501c-4125-bb0b-3de25d8e6d38-1694086918380.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\18ce01dc-819a-4c9b-bba2-5ab261b54252-thumbnail-what-is-a-relational-database.webp",
+      "PackagePath": "staticwebassets\\Images\\18ce01dc-819a-4c9b-bba2-5ab261b54252-thumbnail-what-is-a-relational-database.webp"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\19180f77-7161-4870-ac69-8039f74ec81a-316959004_1542281696215821_7186432385422028040_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\19180f77-7161-4870-ac69-8039f74ec81a-316959004_1542281696215821_7186432385422028040_n.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\1f0df42a-fe74-4f43-908f-f8919784b727-brainstorming-concept-on-black-vector.jpg",
+      "PackagePath": "staticwebassets\\Images\\1f0df42a-fe74-4f43-908f-f8919784b727-brainstorming-concept-on-black-vector.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\1f3b0975-6608-461e-8255-ce42d42296b5-IMG_20230129_065033_472.jpg",
+      "PackagePath": "staticwebassets\\Images\\1f3b0975-6608-461e-8255-ce42d42296b5-IMG_20230129_065033_472.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\299f569b-0a26-4f8c-8514-0bad9dfe481e-316959004_1542281696215821_7186432385422028040_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\299f569b-0a26-4f8c-8514-0bad9dfe481e-316959004_1542281696215821_7186432385422028040_n.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\2aae0d2f-15c3-47b8-a757-b9fc8e22c3a3-R (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\2aae0d2f-15c3-47b8-a757-b9fc8e22c3a3-R (1).jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\2b59d8ac-43d5-4f9b-a304-c2fc0bbdbd89-333.PNG",
+      "PackagePath": "staticwebassets\\Images\\2b59d8ac-43d5-4f9b-a304-c2fc0bbdbd89-333.PNG"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\31858f76-1e51-4eeb-a7fe-bc6672f8e078-images (4).jpeg",
+      "PackagePath": "staticwebassets\\Images\\31858f76-1e51-4eeb-a7fe-bc6672f8e078-images (4).jpeg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\476442f1-4c3b-40ad-9691-1d6b43ea5415-IMG_20230424_224909_156.webp",
+      "PackagePath": "staticwebassets\\Images\\476442f1-4c3b-40ad-9691-1d6b43ea5415-IMG_20230424_224909_156.webp"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\488c2411-bd7a-4618-b6dc-7d35eb143c80-f6167730e9b2b7434d5c00f897700464.jpg",
+      "PackagePath": "staticwebassets\\Images\\488c2411-bd7a-4618-b6dc-7d35eb143c80-f6167730e9b2b7434d5c00f897700464.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\4efa582b-e94c-49e0-9c4e-e4902de8e0c2-P1.PNG",
+      "PackagePath": "staticwebassets\\Images\\4efa582b-e94c-49e0-9c4e-e4902de8e0c2-P1.PNG"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\4f8ed9ad-85c9-4432-908a-694491a43bbd-thumbnail-what-is-a-relational-database.webp",
+      "PackagePath": "staticwebassets\\Images\\4f8ed9ad-85c9-4432-908a-694491a43bbd-thumbnail-what-is-a-relational-database.webp"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\52187e2d-8831-434b-a921-b72e8a38e2e4-IMG_1694455245453.jpg",
+      "PackagePath": "staticwebassets\\Images\\52187e2d-8831-434b-a921-b72e8a38e2e4-IMG_1694455245453.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\61a7a1bd-958e-4e9e-b868-d325e8bdb037-OIP.jpg",
+      "PackagePath": "staticwebassets\\Images\\61a7a1bd-958e-4e9e-b868-d325e8bdb037-OIP.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\698dbb7d-5e98-4213-b352-0bf13e220c45-Arabic_language_-_kuffi.png",
+      "PackagePath": "staticwebassets\\Images\\698dbb7d-5e98-4213-b352-0bf13e220c45-Arabic_language_-_kuffi.png"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\6b508897-5e88-4f4a-af6d-f438ebd10eac-333.PNG",
+      "PackagePath": "staticwebassets\\Images\\6b508897-5e88-4f4a-af6d-f438ebd10eac-333.PNG"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\6c6e7bcc-2327-4e25-b491-30e6de50b854-What is Database Management.jpg",
+      "PackagePath": "staticwebassets\\Images\\6c6e7bcc-2327-4e25-b491-30e6de50b854-What is Database Management.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\6d0e3ef3-0837-4d31-b900-375beda54fdf-555.PNG",
+      "PackagePath": "staticwebassets\\Images\\6d0e3ef3-0837-4d31-b900-375beda54fdf-555.PNG"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\764695bf-f3c0-49bf-a6ee-6961e88b641a-R.jpg",
+      "PackagePath": "staticwebassets\\Images\\764695bf-f3c0-49bf-a6ee-6961e88b641a-R.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\88a5b5c8-a0f5-4fed-8de5-daecaf5f0e84-IMG_1694455245453.jpg",
+      "PackagePath": "staticwebassets\\Images\\88a5b5c8-a0f5-4fed-8de5-daecaf5f0e84-IMG_1694455245453.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\8f009021-6999-4150-81bf-02b6c274c01d-Arabic_language_-_kuffi.png",
+      "PackagePath": "staticwebassets\\Images\\8f009021-6999-4150-81bf-02b6c274c01d-Arabic_language_-_kuffi.png"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\994031cf-2268-4dd0-a6ed-bfda64055b34-pngtree-bodybuilder-with-big-muscles-posing-isolated-vector-silhouette-front-view-png-image_5163925.jpg",
+      "PackagePath": "staticwebassets\\Images\\994031cf-2268-4dd0-a6ed-bfda64055b34-pngtree-bodybuilder-with-big-muscles-posing-isolated-vector-silhouette-front-view-png-image_5163925.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\9dc0ab94-9dc6-4d5f-b7f3-f1fd5af82156-ac4d83de-1822-439e-a962-39c462582f7a-121778736_2667598850158518_4894711436928783016_o (2).jpg",
+      "PackagePath": "staticwebassets\\Images\\9dc0ab94-9dc6-4d5f-b7f3-f1fd5af82156-ac4d83de-1822-439e-a962-39c462582f7a-121778736_2667598850158518_4894711436928783016_o (2).jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\a622fb32-7b78-4446-b6f5-d782c0e3fd44-77415673_1739550962846941_5531146720164970496_o.jpg",
+      "PackagePath": "staticwebassets\\Images\\a622fb32-7b78-4446-b6f5-d782c0e3fd44-77415673_1739550962846941_5531146720164970496_o.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\a9609439-0485-4388-a140-f506075a6a03-Screenshot 2024-03-27 045430.png",
+      "PackagePath": "staticwebassets\\Images\\a9609439-0485-4388-a140-f506075a6a03-Screenshot 2024-03-27 045430.png"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\aa2d1d5f-d5d6-47ed-bc60-abf3525c1e7d-IMG_20230424_224909_156.webp",
+      "PackagePath": "staticwebassets\\Images\\aa2d1d5f-d5d6-47ed-bc60-abf3525c1e7d-IMG_20230424_224909_156.webp"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\ac8d78f7-4484-47f2-9121-07c0c2f2bf10-download.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ac8d78f7-4484-47f2-9121-07c0c2f2bf10-download.jpeg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\b1e6c040-3226-47fc-a0e6-58c2b9407b38-IMG_20230422_150615_492.webp",
+      "PackagePath": "staticwebassets\\Images\\b1e6c040-3226-47fc-a0e6-58c2b9407b38-IMG_20230422_150615_492.webp"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\b3443aa4-eb44-415d-94c2-5b35bc04bc52-IMG_20230424_212400_989.webp",
+      "PackagePath": "staticwebassets\\Images\\b3443aa4-eb44-415d-94c2-5b35bc04bc52-IMG_20230424_212400_989.webp"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\c1b23260-0be9-4750-992c-7c8e6bf6bbae-images (5).jpeg",
+      "PackagePath": "staticwebassets\\Images\\c1b23260-0be9-4750-992c-7c8e6bf6bbae-images (5).jpeg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\ccec2ed7-5f08-477d-99e6-c9d5b8b59e42-brainstorming-concept-on-black-vector.jpg",
+      "PackagePath": "staticwebassets\\Images\\ccec2ed7-5f08-477d-99e6-c9d5b8b59e42-brainstorming-concept-on-black-vector.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\d620b23e-fc06-4612-a269-83f57e3640ba-download.jpeg",
+      "PackagePath": "staticwebassets\\Images\\d620b23e-fc06-4612-a269-83f57e3640ba-download.jpeg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\da6e5412-3140-4079-b679-a516a6315251-download.jpeg",
+      "PackagePath": "staticwebassets\\Images\\da6e5412-3140-4079-b679-a516a6315251-download.jpeg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\e0188889-7a7c-4fd8-a408-28726072efbd-Screenshot 2024-03-27 045430.png",
+      "PackagePath": "staticwebassets\\Images\\e0188889-7a7c-4fd8-a408-28726072efbd-Screenshot 2024-03-27 045430.png"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\e8a5ad1f-0c66-4f53-bd5f-cd6bf30abb66-IMG_20230131_130352.jpg",
+      "PackagePath": "staticwebassets\\Images\\e8a5ad1f-0c66-4f53-bd5f-cd6bf30abb66-IMG_20230131_130352.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\ef6f30f1-6e49-4f63-a41a-6174667ed383-eslamShaker.jpg",
+      "PackagePath": "staticwebassets\\Images\\ef6f30f1-6e49-4f63-a41a-6174667ed383-eslamShaker.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\faa6ec84-4512-47a5-ac14-798754c05768-Screenshot 2024-03-27 045430.png",
+      "PackagePath": "staticwebassets\\Images\\faa6ec84-4512-47a5-ac14-798754c05768-Screenshot 2024-03-27 045430.png"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\Images\\fb73d044-4284-4f11-8ce8-65d02910b6e8-R.jpg",
+      "PackagePath": "staticwebassets\\Images\\fb73d044-4284-4f11-8ce8-65d02910b6e8-R.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Animation-Cards-1.css",
+      "PackagePath": "staticwebassets\\css\\Animation-Cards-1.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Animation-Cards.css",
+      "PackagePath": "staticwebassets\\css\\Animation-Cards.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Article-Cards.css",
+      "PackagePath": "staticwebassets\\css\\Article-Cards.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Article-Clean.css",
+      "PackagePath": "staticwebassets\\css\\Article-Clean.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Article-List.css",
+      "PackagePath": "staticwebassets\\css\\Article-List.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Black-Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Black-Navbar.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Login-Form-Clean.css",
+      "PackagePath": "staticwebassets\\css\\Login-Form-Clean.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Login-Form-Dark.css",
+      "PackagePath": "staticwebassets\\css\\Login-Form-Dark.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Navbar---Apple-1.css",
+      "PackagePath": "staticwebassets\\css\\Navbar---Apple-1.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Navbar---Apple.css",
+      "PackagePath": "staticwebassets\\css\\Navbar---Apple.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Navigation-with-Button.css",
+      "PackagePath": "staticwebassets\\css\\Navigation-with-Button.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Navigation-with-Search.css",
+      "PackagePath": "staticwebassets\\css\\Navigation-with-Search.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\News-Cards.css",
+      "PackagePath": "staticwebassets\\css\\News-Cards.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Off-Canvas-Sidebar-Drawer-Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Off-Canvas-Sidebar-Drawer-Navbar.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Responsive-UI-Card-02.css",
+      "PackagePath": "staticwebassets\\css\\Responsive-UI-Card-02.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Right-Sidebar.css",
+      "PackagePath": "staticwebassets\\css\\Right-Sidebar.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\SIdebar-Responsive-2-1.css",
+      "PackagePath": "staticwebassets\\css\\SIdebar-Responsive-2-1.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\SIdebar-Responsive-2.css",
+      "PackagePath": "staticwebassets\\css\\SIdebar-Responsive-2.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Sidebar-Menu-1.css",
+      "PackagePath": "staticwebassets\\css\\Sidebar-Menu-1.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Sidebar-Menu.css",
+      "PackagePath": "staticwebassets\\css\\Sidebar-Menu.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Sidebar-right-opening.css",
+      "PackagePath": "staticwebassets\\css\\Sidebar-right-opening.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Social-Icons.css",
+      "PackagePath": "staticwebassets\\css\\Social-Icons.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Soft-UI-Aside-Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Soft-UI-Aside-Navbar.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Studious-sidebar.css",
+      "PackagePath": "staticwebassets\\css\\Studious-sidebar.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Team-Boxed.css",
+      "PackagePath": "staticwebassets\\css\\Team-Boxed.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\Vertical-Left-SideBar-by-Jigar-Mistry.css",
+      "PackagePath": "staticwebassets\\css\\Vertical-Left-SideBar-by-Jigar-Mistry.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\dh-card-image-left-dark.css",
+      "PackagePath": "staticwebassets\\css\\dh-card-image-left-dark.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\dh-navbar-inverse.css",
+      "PackagePath": "staticwebassets\\css\\dh-navbar-inverse.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\fonts\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome.min.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\fonts\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.min.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\Screenshot 2021-08-18 014017.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2021-08-18 014017.png"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\beach.jpg",
+      "PackagePath": "staticwebassets\\img\\beach.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\building.jpg",
+      "PackagePath": "staticwebassets\\img\\building.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\desk.jpg",
+      "PackagePath": "staticwebassets\\img\\desk.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\expansion.png",
+      "PackagePath": "staticwebassets\\img\\expansion.png"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\loft.jpg",
+      "PackagePath": "staticwebassets\\img\\loft.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\paleta-sensores.jpg",
+      "PackagePath": "staticwebassets\\img\\paleta-sensores.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\portfolio\\cabin.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\cabin.png"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\product-aeon-feature.jpg",
+      "PackagePath": "staticwebassets\\img\\product-aeon-feature.jpg"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\img\\profile.png",
+      "PackagePath": "staticwebassets\\img\\profile.png"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\js\\Navbar---Apple.js",
+      "PackagePath": "staticwebassets\\js\\Navbar---Apple.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\js\\Off-Canvas-Sidebar-Drawer-Navbar-1.js",
+      "PackagePath": "staticwebassets\\js\\Off-Canvas-Sidebar-Drawer-Navbar-1.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\js\\Off-Canvas-Sidebar-Drawer-Navbar.js",
+      "PackagePath": "staticwebassets\\js\\Off-Canvas-Sidebar-Drawer-Navbar.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\js\\Right-Sidebar.js",
+      "PackagePath": "staticwebassets\\js\\Right-Sidebar.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\js\\Sidebar-Menu.js",
+      "PackagePath": "staticwebassets\\js\\Sidebar-Menu.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\js\\Sidebar-right-opening.js",
+      "PackagePath": "staticwebassets\\js\\Sidebar-right-opening.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\js\\Studious-sidebar.js",
+      "PackagePath": "staticwebassets\\js\\Studious-sidebar.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\js\\bs-init-1.js",
+      "PackagePath": "staticwebassets\\js\\bs-init-1.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\js\\bs-init.js",
+      "PackagePath": "staticwebassets\\js\\bs-init.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\js\\chart.min.js",
+      "PackagePath": "staticwebassets\\js\\chart.min.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\js\\freelancer.js",
+      "PackagePath": "staticwebassets\\js\\freelancer.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\GitHup\\ArticlProject\\ArticlProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ArticlProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ArticlProject.props",
+      "PackagePath": "build\\ArticlProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ArticlProject.props",
+      "PackagePath": "buildMultiTargeting\\ArticlProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ArticlProject.props",
+      "PackagePath": "buildTransitive\\ArticlProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
